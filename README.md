@@ -1,0 +1,2 @@
+# pal
+VTB MOBILE ONLINE MAPS
